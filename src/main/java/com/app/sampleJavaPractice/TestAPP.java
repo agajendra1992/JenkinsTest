@@ -1,6 +1,6 @@
 package com.app.sampleJavaPractice;
 
-public class MainApp {
+public class TestAPP {
 
 	public static void main(String[] args) {
 		ReversString rev = new ReversString();
